@@ -1,1 +1,1 @@
-script that that prints “Hello, World”
+some text for this readme
